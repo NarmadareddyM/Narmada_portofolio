@@ -46,11 +46,11 @@ function Contact() {
 
             {/* Email */}
             <a
-              href="mailto:narmadam286@gmail.com"
+              href="mailto:narmadam910@gmail.com"
               className="flex items-center gap-5 text-gray-300 hover:text-blue-400 transition duration-300 text-lg"
             >
               <FaEnvelope className="text-2xl" />
-              narmadam286@gmail.com
+              narmadam910@gmail.com
             </a>
 
             {/* Phone */}
